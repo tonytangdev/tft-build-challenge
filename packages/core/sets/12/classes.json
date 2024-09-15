@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Ascendant",
+    "imgUrl": "https://rerollcdn.com/icons/ascendant.png",
+    "tiers": [1]
+  },
+  {
+    "name": "Bastion",
+    "imgUrl": "https://rerollcdn.com/icons/bastion.png",
+    "tiers": [2, 4, 6, 8]
+  },
+  {
+    "name": "Bat Queen",
+    "imgUrl": "https://rerollcdn.com/icons/batqueen.png",
+    "tiers": [1]
+  },
+  {
+    "name": "Blaster",
+    "imgUrl": "https://rerollcdn.com/icons/blaster.png",
+    "tiers": [2, 4, 6]
+  },
+  {
+    "name": "Explorer",
+    "imgUrl": "https://rerollcdn.com/icons/explorer.png",
+    "tiers": [1]
+  },
+  {
+    "name": "Hunter",
+    "imgUrl": "https://rerollcdn.com/icons/hunter.png",
+    "tiers": [2, 4, 6]
+  },
+  {
+    "name": "Incantor",
+    "imgUrl": "https://rerollcdn.com/icons/incantor.png",
+    "tiers": [2, 4]
+  },
+  {
+    "name": "Mage",
+    "imgUrl": "https://rerollcdn.com/icons/mage.png",
+    "tiers": [3, 5, 7, 10]
+  },
+  {
+    "name": "Multistriker",
+    "imgUrl": "https://rerollcdn.com/icons/multistriker.png",
+    "tiers": [3, 5, 7, 9]
+  },
+  {
+    "name": "Preserver",
+    "imgUrl": "https://rerollcdn.com/icons/preserver.png",
+    "tiers": [2, 3, 4, 5]
+  },
+  {
+    "name": "Scholar",
+    "imgUrl": "https://rerollcdn.com/icons/scholar.png",
+    "tiers": [2, 4, 6]
+  },
+  {
+    "name": "Shapeshifter",
+    "imgUrl": "https://rerollcdn.com/icons/shapeshifter.png",
+    "tiers": [2, 4, 6, 8]
+  },
+  {
+    "name": "Vanguard",
+    "imgUrl": "https://rerollcdn.com/icons/vanguard.png",
+    "tiers": [2, 4, 6]
+  },
+  {
+    "name": "Warrior",
+    "imgUrl": "https://rerollcdn.com/icons/warrior.png",
+    "tiers": [2, 4, 6]
+  }
+]

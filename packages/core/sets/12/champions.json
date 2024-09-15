@@ -1,0 +1,422 @@
+[
+  {
+    "name": "Ahri",
+    "origins": ["Arcana"],
+    "classes": ["Scholar"],
+    "cost": 2,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Ahri.png"
+  },
+  {
+    "name": "Akali",
+    "origins": ["Pyro"],
+    "classes": ["Multistriker", "Warrior"],
+    "cost": 2,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Akali.png"
+  },
+  {
+    "name": "Ashe",
+    "origins": ["Eldritch"],
+    "classes": ["Multistriker"],
+    "cost": 1,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Ashe.png"
+  },
+  {
+    "name": "Bard",
+    "origins": ["Sugarcraft"],
+    "classes": ["Preserver", "Scholar"],
+    "cost": 3,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Bard.png"
+  },
+  {
+    "name": "Blitzcrank",
+    "origins": ["Honeymancy"],
+    "classes": ["Vanguard"],
+    "cost": 1,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Blitzcrank.png"
+  },
+  {
+    "name": "Briar",
+    "origins": ["Eldritch", "Ravenous"],
+    "classes": ["Shapeshifter"],
+    "cost": 5,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Blitzcrank.png"
+  },
+  {
+    "name": "Camille",
+    "origins": ["Chrono"],
+    "classes": ["Multistriker"],
+    "cost": 5,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Camille.png"
+  },
+  {
+    "name": "Cassiopeia",
+    "origins": ["Witchcraft"],
+    "classes": ["Incantor"],
+    "cost": 2,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Cassiopeia.png"
+  },
+  {
+    "name": "Diana",
+    "origins": ["Frost"],
+    "classes": ["Bastion"],
+    "cost": 5,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Diana.png"
+  },
+  {
+    "name": "Elise",
+    "origins": ["Eldritch"],
+    "classes": ["Shapeshifter"],
+    "cost": 1,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Elise.png"
+  },
+  {
+    "name": "Ezreal",
+    "origins": ["Portal"],
+    "classes": ["Blaster"],
+    "cost": 3,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Ezreal.png"
+  },
+  {
+    "name": "Fiora",
+    "origins": ["Witchcraft"],
+    "classes": ["Warrior"],
+    "cost": 4,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Fiora.png"
+  },
+  {
+    "name": "Galio",
+    "origins": ["Portal"],
+    "classes": ["Mage", "Vanguard"],
+    "cost": 2,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Galio.png"
+  },
+  {
+    "name": "Gwen",
+    "origins": ["Sugarcraft"],
+    "classes": ["Warrior"],
+    "cost": 4,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Gwen.png"
+  },
+  {
+    "name": "Hecarim",
+    "origins": ["Arcana"],
+    "classes": ["Bastion", "Multistriker"],
+    "cost": 3,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Hecarim.png"
+  },
+  {
+    "name": "Hwei",
+    "origins": ["Frost"],
+    "classes": ["Blaster"],
+    "cost": 3,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Hwei.png"
+  },
+  {
+    "name": "Jax",
+    "origins": ["Chrono"],
+    "classes": ["Multistriker"],
+    "cost": 1,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Jax.png"
+  },
+  {
+    "name": "Jayce",
+    "origins": ["Portal"],
+    "classes": ["Shapeshifter"],
+    "cost": 1,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Jayce.png"
+  },
+  {
+    "name": "Jinx",
+    "origins": ["Sugarcraft"],
+    "classes": ["Hunter"],
+    "cost": 3,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Jinx.png"
+  },
+  {
+    "name": "Kalista",
+    "origins": ["Faerie"],
+    "classes": ["Multistriker"],
+    "cost": 4,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Kalista.png"
+  },
+  {
+    "name": "Karma",
+    "origins": ["Chrono"],
+    "classes": ["Incantor"],
+    "cost": 4,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Karma.png"
+  },
+  {
+    "name": "Kassadin",
+    "origins": ["Portal"],
+    "classes": ["Multistriker"],
+    "cost": 2,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Kassadin.png"
+  },
+  {
+    "name": "Katarina",
+    "origins": ["Faerie"],
+    "classes": ["Warrior"],
+    "cost": 3,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Katarina.png"
+  },
+  {
+    "name": "KogMaw",
+    "origins": ["Honeymancy"],
+    "classes": ["Hunter"],
+    "cost": 2,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/KogMaw.png"
+  },
+  {
+    "name": "Lillia",
+    "origins": ["Faerie"],
+    "classes": ["Bastion"],
+    "cost": 1,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Lillia.png"
+  },
+  {
+    "name": "Milio",
+    "origins": ["Faerie"],
+    "classes": ["Scholar"],
+    "cost": 5,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Milio.png"
+  },
+  {
+    "name": "Mordekaiser",
+    "origins": ["Eldritch"],
+    "classes": ["Vanguard"],
+    "cost": 3,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Mordekaiser.png"
+  },
+  {
+    "name": "Morgana",
+    "origins": ["Witchcraft"],
+    "classes": ["Bat Queen", "Preserver"],
+    "cost": 5,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Morgana.png"
+  },
+  {
+    "name": "Nami",
+    "origins": ["Eldritch"],
+    "classes": ["Mage"],
+    "cost": 4,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Nami.png"
+  },
+  {
+    "name": "Nasus",
+    "origins": ["Pyro"],
+    "classes": ["Shapeshifter"],
+    "cost": 4,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Nasus.png"
+  },
+  {
+    "name": "Neeko",
+    "origins": ["Witchcraft"],
+    "classes": ["Shapeshifter"],
+    "cost": 3,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Neeko.png"
+  },
+  {
+    "name": "Nilah",
+    "origins": ["Eldritch"],
+    "classes": ["Warrior"],
+    "cost": 2,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Nilah.png"
+  },
+  {
+    "name": "Nomsy",
+    "origins": ["Dragon"],
+    "classes": ["Hunter"],
+    "cost": 1,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Nomsy.png"
+  },
+  {
+    "name": "Norra & Yuumi",
+    "origins": ["Portal"],
+    "classes": ["Best Friends", "Mage"],
+    "cost": 5,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Norra&Yuumi.png"
+  },
+  {
+    "name": "Nunu",
+    "origins": ["Honeymancy"],
+    "classes": ["Bastion"],
+    "cost": 2,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Nunu.png"
+  },
+  {
+    "name": "Olaf",
+    "origins": ["Frost"],
+    "classes": ["Hunter"],
+    "cost": 4,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Olaf.png"
+  },
+  {
+    "name": "Poppy",
+    "origins": ["Witchcraft"],
+    "classes": ["Bastion"],
+    "cost": 1,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Poppy.png"
+  },
+  {
+    "name": "Rakan",
+    "origins": ["Faerie"],
+    "classes": ["Preserver"],
+    "cost": 4,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Rakan.png"
+  },
+  {
+    "name": "Rumble",
+    "origins": ["Sugarcraft"],
+    "classes": ["Blaster", "Vanguard"],
+    "cost": 2,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Rumble.png"
+  },
+  {
+    "name": "Ryze",
+    "origins": ["Portal"],
+    "classes": ["Scholar"],
+    "cost": 4,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Ryze.png"
+  },
+  {
+    "name": "Seraphine",
+    "origins": ["Faerie"],
+    "classes": ["Mage"],
+    "cost": 1,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Seraphine.png"
+  },
+  {
+    "name": "Shen",
+    "origins": ["Pyro"],
+    "classes": ["Bastion"],
+    "cost": 3,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Shen.png"
+  },
+  {
+    "name": "Shyvana",
+    "origins": ["Dragon"],
+    "classes": ["Shapeshifter"],
+    "cost": 2,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Shyvana.png"
+  },
+  {
+    "name": "Smolder",
+    "origins": ["Dragon"],
+    "classes": ["Blaster"],
+    "cost": 5,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Smolder.png"
+  },
+  {
+    "name": "Soraka",
+    "origins": ["Sugarcraft"],
+    "classes": ["Mage"],
+    "cost": 1,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Soraka.png"
+  },
+  {
+    "name": "Swain",
+    "origins": ["Frost"],
+    "classes": ["Shapeshifter"],
+    "cost": 3,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Swain.png"
+  },
+  {
+    "name": "Syndra",
+    "origins": ["Eldritch"],
+    "classes": ["Incantor"],
+    "cost": 2,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Syndra.png"
+  },
+  {
+    "name": "Tahm Kench",
+    "origins": ["Arcana"],
+    "classes": ["Vanguard"],
+    "cost": 4,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/TahmKench.png"
+  },
+  {
+    "name": "Taric",
+    "origins": ["Portal"],
+    "classes": ["Bastion"],
+    "cost": 4,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Taric.png"
+  },
+  {
+    "name": "Tristana",
+    "origins": ["Faerie"],
+    "classes": ["Blaster"],
+    "cost": 2,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Tristana.png"
+  },
+  {
+    "name": "Twitch",
+    "origins": ["Frost"],
+    "classes": ["Hunter"],
+    "cost": 1,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Twitch.png"
+  },
+  {
+    "name": "Varus",
+    "origins": ["Pyro"],
+    "classes": ["Blaster"],
+    "cost": 4,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Varus.png"
+  },
+  {
+    "name": "Veigar",
+    "origins": ["Honeymancy"],
+    "classes": ["Mage"],
+    "cost": 3,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Veigar.png"
+  },
+  {
+    "name": "Vex",
+    "origins": ["Chrono"],
+    "classes": ["Mage"],
+    "cost": 3,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Vex.png"
+  },
+  {
+    "name": "Warwick",
+    "origins": ["Frost"],
+    "classes": ["Vanguard"],
+    "cost": 1,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Warwick.png"
+  },
+  {
+    "name": "Wukong",
+    "origins": ["Druid"],
+    "classes": [],
+    "cost": 3,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Wukong.png"
+  },
+  {
+    "name": "Xerath",
+    "origins": ["Arcana"],
+    "classes": ["Ascendant"],
+    "cost": 5,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Xerath.png"
+  },
+  {
+    "name": "Ziggs",
+    "origins": ["Honeymancy"],
+    "classes": ["Incantor"],
+    "cost": 1,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Ziggs.png"
+  },
+  {
+    "name": "Zilean",
+    "origins": ["Chrono", "Frost"],
+    "classes": ["Preserver"],
+    "cost": 2,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Zilean.png"
+  },
+  {
+    "name": "Zoe",
+    "origins": ["Portal", "Witchcraft"],
+    "classes": ["Scholar"],
+    "cost": 1,
+    "imgUrl": "https://rerollcdn.com/characters/Skin/12/Zoe.png"
+  }
+]

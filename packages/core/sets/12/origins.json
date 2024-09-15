@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Arcana",
+    "imgUrl": "https://rerollcdn.com/icons/arcana.png",
+    "tiers": [2, 3, 4, 5]
+  },
+  {
+    "name": "Chrono",
+    "imgUrl": "https://rerollcdn.com/icons/chrono.png",
+    "tiers": [2, 4, 6]
+  },
+  {
+    "name": "Dragon",
+    "imgUrl": "https://rerollcdn.com/icons/dragon.png",
+    "tiers": [2, 3]
+  },
+  {
+    "name": "Druid",
+    "imgUrl": "https://rerollcdn.com/icons/druid.png",
+    "tiers": [1]
+  },
+  {
+    "name": "Eldritch",
+    "imgUrl": "https://rerollcdn.com/icons/eldritch.png",
+    "tiers": [3, 5, 7, 10]
+  },
+  {
+    "name": "Faerie",
+    "imgUrl": "https://rerollcdn.com/icons/faerie.png",
+    "tiers": [3, 5, 7, 9]
+  },
+  {
+    "name": "Frost",
+    "imgUrl": "https://rerollcdn.com/icons/frost.png",
+    "tiers": [2, 5, 7, 9]
+  },
+  {
+    "name": "Honeymancy",
+    "imgUrl": "https://rerollcdn.com/icons/honeymancy.png",
+    "tiers": [3, 5, 7]
+  },
+  {
+    "name": "Portal",
+    "imgUrl": "https://rerollcdn.com/icons/portal.png",
+    "tiers": [3, 6, 8, 10]
+  },
+  {
+    "name": "Pyro",
+    "imgUrl": "https://rerollcdn.com/icons/pyro.png",
+    "tiers": [2, 3, 4, 5]
+  },
+  {
+    "name": "Ravenous",
+    "imgUrl": "https://rerollcdn.com/icons/ravenous.png",
+    "tiers": [1]
+  },
+  {
+    "name": "Sugarcraft",
+    "imgUrl": "https://rerollcdn.com/icons/sugarcraft.png",
+    "tiers": [2, 4, 6]
+  },
+  {
+    "name": "Witchcraft",
+    "imgUrl": "https://rerollcdn.com/icons/witchcraft.png",
+    "tiers": [4, 6, 8]
+  }
+]

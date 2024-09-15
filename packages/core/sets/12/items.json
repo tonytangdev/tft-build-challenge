@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Sugarcraft Emblem",
+    "imgUrl": "https://rerollcdn.com/items/SugarcraftEmblem.png"
+  },
+  {
+    "name": "Frost Emblem",
+    "imgUrl": "https://rerollcdn.com/items/FrostEmblem.png"
+  },
+  {
+    "name": "Eldritch Emblem",
+    "imgUrl": "https://rerollcdn.com/items/EldritchEmblem.png"
+  },
+  {
+    "name": "Portal Emblem",
+    "imgUrl": "https://rerollcdn.com/items/PortalEmblem.png"
+  },
+  {
+    "name": "Witchcraft Emblem",
+    "imgUrl": "https://rerollcdn.com/items/WitchcraftEmblem.png"
+  },
+  {
+    "name": "Pyro Emblem",
+    "imgUrl": "https://rerollcdn.com/items/PyroEmblem.png"
+  },
+  {
+    "name": "Honeymancy Emblem",
+    "imgUrl": "https://rerollcdn.com/items/HoneymancyEmblem.png"
+  },
+  {
+    "name": "Tactician's Crown",
+    "imgUrl": "https://rerollcdn.com/items/TacticiansCrown.png"
+  },
+  {
+    "name": "Faerie Emblem",
+    "imgUrl": "https://rerollcdn.com/items/FaerieEmblem.png"
+  },
+  {
+    "name": "Bloodthirster",
+    "imgUrl": "https://rerollcdn.com/items/Bloodthirster.png"
+  },
+  {
+    "name": "Guinsoo's Rageblade",
+    "imgUrl": "https://rerollcdn.com/items/GuinsoosRageblade.png"
+  },
+  {
+    "name": "Gargoyle Stoneplate",
+    "imgUrl": "https://rerollcdn.com/items/GargoyleStoneplate.png"
+  },
+  {
+    "name": "Spear of Shojin",
+    "imgUrl": "https://rerollcdn.com/items/SpearofShojin.png"
+  },
+  {
+    "name": "Thief's Gloves",
+    "imgUrl": "https://rerollcdn.com/items/ThiefsGloves.png"
+  },
+  {
+    "name": "Warmog's Armor",
+    "imgUrl": "https://rerollcdn.com/items/WarmogsArmor.png"
+  },
+  {
+    "name": "Jeweled Gauntlet",
+    "imgUrl": "https://rerollcdn.com/items/JeweledGauntlet.png"
+  },
+  {
+    "name": "Sterak's Gage",
+    "imgUrl": "https://rerollcdn.com/items/SteraksGage.png"
+  },
+  {
+    "name": "Hand Of Justice",
+    "imgUrl": "https://rerollcdn.com/items/HandOfJustice.png"
+  },
+  {
+    "name": "Ionic Spark",
+    "imgUrl": "https://rerollcdn.com/items/IonicSpark.png"
+  },
+  {
+    "name": "Redemption",
+    "imgUrl": "https://rerollcdn.com/items/Redemption.png"
+  },
+  {
+    "name": "Giant Slayer",
+    "imgUrl": "https://rerollcdn.com/items/Giantlayer.png"
+  },
+  {
+    "name": "Last Whisper",
+    "imgUrl": "https://rerollcdn.com/items/LastWhisper.png"
+  },
+  {
+    "name": "Archangel's Staff",
+    "imgUrl": "https://rerollcdn.com/items/ArchangelsStaff.png"
+  },
+  {
+    "name": "Red Buff",
+    "imgUrl": "https://rerollcdn.com/items/RedBuff.png"
+  },
+  {
+    "name": "Adaptive Helm",
+    "imgUrl": "https://rerollcdn.com/items/AdaptiveHelm.png"
+  },
+  {
+    "name": "Blue Buff",
+    "imgUrl": "https://rerollcdn.com/items/BlueBuff.png"
+  },
+  {
+    "name": "Infinity Edge",
+    "imgUrl": "https://rerollcdn.com/items/InfinityEdge.png"
+  },
+  {
+    "name": "Nashor's Tooth",
+    "imgUrl": "https://rerollcdn.com/items/NashorsTooth.png"
+  },
+  {
+    "name": "Titan's Resolve",
+    "imgUrl": "https://rerollcdn.com/items/TitansResolve.png"
+  },
+  {
+    "name": "Crownguard",
+    "imgUrl": "https://rerollcdn.com/items/Crownguard.png"
+  },
+  {
+    "name": "Morellonomicon",
+    "imgUrl": "https://rerollcdn.com/items/Morellonomicon.png"
+  },
+  {
+    "name": "Multistriker Emblem",
+    "imgUrl": "https://rerollcdn.com/items/MultistrikerEmblem.png"
+  },
+  {
+    "name": "Rabadon's Deathcap",
+    "imgUrl": "https://rerollcdn.com/items/RabadonsDeathcap.png"
+  },
+  {
+    "name": "Protector's Vow",
+    "imgUrl": "https://rerollcdn.com/items/ProtectorsVow.png"
+  },
+  {
+    "name": "Dragon's Claw",
+    "imgUrl": "https://rerollcdn.com/items/DragonsClaw.png"
+  },
+  {
+    "name": "Statikk Shiv",
+    "imgUrl": "https://rerollcdn.com/items/StatikkShiv.png"
+  },
+  {
+    "name": "Steadfast Heart",
+    "imgUrl": "https://rerollcdn.com/items/SteadfastHeart.png"
+  },
+  {
+    "name": "Edge of Night",
+    "imgUrl": "https://rerollcdn.com/items/EdgeofNight.png"
+  },
+  {
+    "name": "Sunfire Cape",
+    "imgUrl": "https://rerollcdn.com/items/SunfireCape.png"
+  },
+  {
+    "name": "Scholar Emblem",
+    "imgUrl": "https://rerollcdn.com/items/ScholarEmblem.png"
+  },
+  {
+    "name": "Bramble Vest",
+    "imgUrl": "https://rerollcdn.com/items/BrambleVest.png"
+  },
+  {
+    "name": "Warrior Emblem",
+    "imgUrl": "https://rerollcdn.com/items/WarriorEmblem.png"
+  },
+  {
+    "name": "Guardbreaker",
+    "imgUrl": "https://rerollcdn.com/items/Guardbreaker.png"
+  },
+  {
+    "name": "Hextech Gunblade",
+    "imgUrl": "https://rerollcdn.com/items/HextechGunblade.png"
+  },
+  {
+    "name": "Evenshroud",
+    "imgUrl": "https://rerollcdn.com/items/Evenshroud.png"
+  },
+  {
+    "name": "Preserver Emblem",
+    "imgUrl": "https://rerollcdn.com/items/PreserverEmblem.png"
+  },
+  {
+    "name": "Quicksilver",
+    "imgUrl": "https://rerollcdn.com/items/Quicksilver.png"
+  },
+  {
+    "name": "Hunter Emblem",
+    "imgUrl": "https://rerollcdn.com/items/HunterEmblem.png"
+  },
+  {
+    "name": "Deathblade",
+    "imgUrl": "https://rerollcdn.com/items/Deathblade.png"
+  },
+  {
+    "name": "Bastion Emblem",
+    "imgUrl": "https://rerollcdn.com/items/BastionEmblem.png"
+  },
+  {
+    "name": "Runaan's Hurricane",
+    "imgUrl": "https://rerollcdn.com/items/RunaansHurricane.png"
+  },
+  {
+    "name": "Shapeshifter Emblem",
+    "imgUrl": "https://rerollcdn.com/items/ShapeshifterEmblem.png"
+  },
+  {
+    "name": "Tactician's Shield",
+    "imgUrl": "https://rerollcdn.com/items/TacticiansShield.png"
+  },
+  {
+    "name": "Mage Emblem",
+    "imgUrl": "https://rerollcdn.com/items/MageEmblem.png"
+  }
+]

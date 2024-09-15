@@ -5,7 +5,7 @@ import { Trait } from "./trait";
 export abstract class TFTSet {
   protected _name: string;
   protected _version: string;
-  protected _champions: Champion[];
-  protected _traits: Trait[];
-  protected _items: Item[];
+  protected _champions: Set<Champion>;
+  protected _traits: Set<Trait>;
+  protected _items: Set<Item>;
 }
