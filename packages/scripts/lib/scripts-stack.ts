@@ -3,6 +3,8 @@ import { Construct } from "constructs";
 import { NodejsFunction } from "aws-cdk-lib/aws-lambda-nodejs";
 import * as path from "path";
 
+const OPENAI_SECRET_NAME = "OpenAI-tft-build-challenges";
+
 export class ScriptsStack extends cdk.Stack {
   constructor(scope: Construct, id: string, props?: cdk.StackProps) {
     super(scope, id, props);
@@ -25,6 +27,8 @@ export class ScriptsStack extends cdk.Stack {
         runtime: cdk.aws_lambda.Runtime.NODEJS_20_X,
         handler: "handler",
         entry: path.join(__dirname, "../lambdas/createTFTComposition/index.ts"),
+        // pass the secret to the lambda
+        environment: { OPENAI_SECRET_NAME },
       },
     );
     // add to stack output
@@ -40,6 +44,8 @@ export class ScriptsStack extends cdk.Stack {
         runtime: cdk.aws_lambda.Runtime.NODEJS_20_X,
         handler: "handler",
         entry: path.join(__dirname, "../lambdas/getTFTComposition/index.ts"),
+        // pass the secret to the lambda
+        environment: { OPENAI_SECRET_NAME },
       },
     );
     // add to stack output
