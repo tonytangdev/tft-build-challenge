@@ -22,7 +22,7 @@ export class ScriptsStack extends cdk.Stack {
     // lambda - call AI API to build tft composition
     const tftCompositionLambda = new NodejsFunction(
       this,
-      "Build TFT Composition",
+      "Create TFT Composition",
       {
         runtime: cdk.aws_lambda.Runtime.NODEJS_20_X,
         handler: "handler",
