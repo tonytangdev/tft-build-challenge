@@ -85,6 +85,8 @@ export class ScriptsStack extends cdk.Stack {
         memorySize: 512,
       },
     );
+    // add permission to write to the table
+    tftCompositionTable.grantWriteData(tftCompositionSaveLambda);
 
     // add to stack output
     new cdk.CfnOutput(this, "Save TFT Composition output", {
