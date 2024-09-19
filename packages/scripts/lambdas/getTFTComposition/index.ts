@@ -37,10 +37,7 @@ export const handler: Handler = async (event: unknown) => {
     throw new Error("Last message is not text");
   }
 
-  const tftComposition = JSON.parse(lastMessage.content[0].text.value);
-  return {
-    tftComposition,
-  };
+  return JSON.parse(lastMessage.content[0].text.value);
 };
 
 async function initOpenAI() {

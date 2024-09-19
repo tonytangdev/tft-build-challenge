@@ -1,6 +1,7 @@
 import * as cdk from "aws-cdk-lib";
 import { Construct } from "constructs";
 import { NodejsFunction } from "aws-cdk-lib/aws-lambda-nodejs";
+import * as tasks from "aws-cdk-lib/aws-stepfunctions-tasks";
 import * as path from "path";
 
 const OPENAI_SECRET_NAME = "OpenAI-tft-build-challenges";
@@ -82,7 +83,7 @@ export class ScriptsStack extends cdk.Stack {
           REGION,
         },
         timeout: cdk.Duration.seconds(30),
-        memorySize: 512,
+        memorySize: 1024,
       },
     );
     // add permission to write to the table
@@ -91,6 +92,62 @@ export class ScriptsStack extends cdk.Stack {
     // add to stack output
     new cdk.CfnOutput(this, "Save TFT Composition output", {
       value: tftCompositionSaveLambda.functionArn,
+    });
+
+    // step function
+    const createTFTCompositionTask = new tasks.LambdaInvoke(
+      this,
+      "Create TFT Composition Task",
+      {
+        lambdaFunction: tftCompositionLambda,
+        outputPath: "$.Payload",
+      },
+    );
+
+    const wait1Minute = new cdk.aws_stepfunctions.Wait(this, "Wait 1 minutes", {
+      time: cdk.aws_stepfunctions.WaitTime.duration(cdk.Duration.minutes(1)),
+    });
+
+    const getTFTCompositionTask = new tasks.LambdaInvoke(
+      this,
+      "Get TFT Composition Task",
+      {
+        lambdaFunction: tftCompositionStatusLambda,
+        outputPath: "$.Payload",
+      },
+    );
+
+    const saveTFTCompositionTask = new tasks.LambdaInvoke(
+      this,
+      "Save TFT Composition Task",
+      {
+        lambdaFunction: tftCompositionSaveLambda,
+        outputPath: "$.Payload",
+      },
+    );
+
+    const success = new cdk.aws_stepfunctions.Succeed(this, "Success");
+
+    const definition = cdk.aws_stepfunctions.Chain.start(
+      createTFTCompositionTask,
+    )
+      .next(wait1Minute)
+      .next(getTFTCompositionTask)
+      .next(saveTFTCompositionTask)
+      .next(success);
+
+    const stateMachine = new cdk.aws_stepfunctions.StateMachine(
+      this,
+      "Create TFT Composition State Machine",
+      {
+        definitionBody:
+          cdk.aws_stepfunctions.DefinitionBody.fromChainable(definition),
+      },
+    );
+
+    // add to stack output
+    new cdk.CfnOutput(this, "Create TFT Composition State Machine output", {
+      value: stateMachine.stateMachineArn,
     });
   }
 }
